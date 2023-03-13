@@ -1,0 +1,16 @@
+legend{
+    font-family: 'Shantell Sans', cursive;
+    background-color: red;
+}
+fieldset{
+    background-image: "<img src="web\Computer Science-lg.jpg" alt="image" srcset="">"
+}
+fieldset{
+    
+    background-image: url('Computer Science-lg.jpg');
+    
+    background-blend-mode: soft-light;
+}
+fieldset:hover{
+ background-color: gray ;
+}
